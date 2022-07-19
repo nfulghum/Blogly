@@ -30,4 +30,4 @@ class User(db.Model):
 
     image_url = db.Column(db.Text,
                           nullable=False,
-                          default="https: // www.freeiconspng.com/uploads/icon-user-blue-symbol-people-person-generic--public-domain--21.png")
+                          default="https://www.freeiconspng.com/uploads/icon-user-blue-symbol-people-person-generic--public-domain--21.png")
